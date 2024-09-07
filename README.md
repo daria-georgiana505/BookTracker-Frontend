@@ -1,4 +1,4 @@
-# Bookstore fullstack project - Frontend
+# BookTracker fullstack project - Frontend
 
 - Used React to develop the client side
 - A user can create an account or login if they already have it
